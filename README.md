@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://interactive-card-details-form.vercel.app" target="_blank">
-		<img src="./screenshots/header.webp" alt="Logo" >
+		<img src="./screenshots/desktop" alt="Logo" >
 	</a>
 
 # Frontend Mentor - Interactive card details form solution
@@ -57,6 +57,5 @@ Users should be able to:
 -   CSS custom properties
 -   Flexbox
 -   Desktop-first workflow
--   [Vite](https://interactive-card-details-form.vercel.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
