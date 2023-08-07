@@ -40,11 +40,11 @@ Users should be able to:
                     alt="Mobile solution" width="100%" title="Mobile solution"  />
             </td>
 			            <td>
-                <img src="./screenshots/tablet-solution.webp"
+                <img src="./screenshots/tablet"
                     alt="Tablet solution" width="100%" title="Tablet solution"/>
             </td>
             <td>
-                <img src="./screenshots/desktop-solution.webp"
+                <img src="./screenshots/desktop"
                     alt="Desktop solution" width="100%" title="Desktop solution"/>
             </td>
         </tr>
@@ -60,6 +60,3 @@ Users should be able to:
 -   [Vite](https://interactive-card-details-form.vercel.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-[live-page]: https://interactive-card-details-form.vercel.app
