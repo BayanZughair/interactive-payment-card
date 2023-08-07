@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://interactive-card-details-form.vercel.app" target="_blank">
-		<img src="./screenshots/desktop" alt="Logo" >
+		<img src="./screenshots/header.webp" alt="Logo" >
 	</a>
 
 # Frontend Mentor - Interactive card details form solution
@@ -40,11 +40,11 @@ Users should be able to:
                     alt="Mobile solution" width="100%" title="Mobile solution"  />
             </td>
 			            <td>
-                <img src="./screenshots/tablet"
+                <img src="./screenshots/tablet-solution.webp"
                     alt="Tablet solution" width="100%" title="Tablet solution"/>
             </td>
             <td>
-                <img src="./screenshots/desktop"
+                <img src="./screenshots/desktop-solution.webp"
                     alt="Desktop solution" width="100%" title="Desktop solution"/>
             </td>
         </tr>
@@ -58,4 +58,3 @@ Users should be able to:
 -   Flexbox
 -   Desktop-first workflow
 
-<p align="right">(<a href="#top">back to top</a>)</p>
